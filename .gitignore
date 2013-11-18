@@ -1,0 +1,11 @@
+# Ignore all files but a few.
+
+/*.*
+*/*
+
+!.gitignore
+!wdqapi/wdqapi.h
+!wdqapiDLL/wdqapi.cs
+!wdqapiJNI/wdqapiJNI.h
+!wdqapiJNI/wdqapiJNI.cpp
+!_doc/WdqGuiPreview2.doc
